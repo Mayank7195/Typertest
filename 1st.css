@@ -1,0 +1,37 @@
+h1{
+    text-align:center;
+    color:rgb(255,0,127);
+
+}
+h4{
+    font-size:30px;
+    color:darkorange;
+}
+
+    body{
+        background-image: url("back.jpg");
+        background-size:cover;
+        
+        
+    }
+
+.test{
+    color:white;
+    margin-top: 20px;
+    font-size: 30px;
+    
+}
+ul{
+    list-style-type: disc;
+   
+}
+a{
+    color:white;
+    text-decoration: none;
+}
+ol{
+    font-size:30px;
+}
+.m{
+    color:rgb(221, 18, 76)
+}

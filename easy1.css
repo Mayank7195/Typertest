@@ -1,0 +1,112 @@
+
+body{
+    background-color:rgb(0, 200, 255);
+}
+           
+        
+
+p{
+    color:rgb(255,0,127);
+    font-size: 25px;
+        margin-top: 50px;
+}
+textarea{
+    height: 500px;
+    width:1000px;
+    border-style: solid;
+    border-radius: 20px;
+    font-size:20px;
+   
+    margin-top: 50px;
+    padding: 20px;  
+}
+#all{
+    display:flex;
+    flex-direction: row;
+   
+    justify-content:flex-start;
+    
+}
+button{
+    margin-left:50px;
+    margin-right:50px;
+    position:relative;
+    top:25px;
+    height:30px;
+    width:60px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+#timer{
+    text-align: center;
+    color:fuchsia;
+    width: 250px;
+    line-height:35px;
+    border-style:solid;
+    border-color: black;
+    font-size: 30px;
+    
+}
+#time{
+    display:flex;
+    justify-content: center;
+}
+#text{
+    display:flex;
+    justify-content: center;
+}
+.box{
+    height: 150px;
+    width: 150px;
+    border-style: solid;
+    border-radius: 50%;
+    margin:45px;
+    font-size:30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    border-color: darkviolet;
+}
+.result{
+    display:flex;
+    
+}
+.b{
+    margin-top: 100px;
+    font-size: 45px;
+}
+.base{
+    display: flex;
+}
+#c{
+    margin-left: 60px;
+}
+#d{
+    margin-left:100px;
+}
+#e{
+    margin-left:150px;
+}
+.tea{
+    font-size:30px;
+    position:relative;
+    bottom:50px;
+}
+h2{
+position:relative;
+top:30px;
+left:30px;
+color:brown;
+text-decoration: underline;
+}
+#back{
+    color:rgb(203, 16, 10);
+    position:relative;
+    top:30px;
+    font-size:30px;
+    border-style: solid;
+    border-color: brown;
+}

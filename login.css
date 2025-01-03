@@ -1,0 +1,51 @@
+#common{
+    border-style: solid;
+    
+   background-image: url("back.jpg");
+    color:white;
+    height:500px;
+    width:300px;
+    border-radius:20px;
+   
+    
+    
+}
+#h1{
+    color:rgb(255,0,127);
+    font-size: 30px;
+    text-align: center;
+}
+#details{
+    padding-left:25px;
+    font-size: 30px;
+
+
+    
+}
+body{
+    display:flex;
+    justify-content: center;
+    padding-top:100px;
+    background-image: url("back.jpg");
+    background-size: cover;
+}
+.same{
+    display:flex;
+    flex-direction:row;
+
+}
+button{
+    height:25px;
+    
+}
+.input{
+    line-height:15px;
+    width:200px;
+    
+}
+.button{
+    display:inline-block;
+    
+}
+
+
